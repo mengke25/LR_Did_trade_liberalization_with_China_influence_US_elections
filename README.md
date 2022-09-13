@@ -14,7 +14,8 @@
 * 中国逐渐成为美国最大的进口来源国——1990: 3%; 2007: 17%; 2016: 21%
 * 2000年美国给与中国PNTR之后，中国进口激增。
 
-![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fig1.jpg)
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/fig1.jpg)
+
 
 * 来自中国的进口增速迅猛，美国制造业就业人数大幅下降，
 * 美国各级政府立法者会对“国际贸易”表态
