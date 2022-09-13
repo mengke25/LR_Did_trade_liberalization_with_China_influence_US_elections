@@ -23,7 +23,7 @@
 * Tea Party的兴起导致，国会中越来越多的共和党加入民主党的行列，反对贸易协定
 * 2016年共和党不仅反对新的贸易协定，还呼吁推翻现有的协定
 
-![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fig2.jpg)
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/fig2.jpg)
 
 ## 三、数据
 
@@ -42,7 +42,7 @@ $$
 NTRGap_{j}=NonNTRRate_{j}-NTRRate_{j}
 $$
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\fig3.jpg" alt="image-20220911223033879" style="zoom:30%;float:left" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/fig3.jpg)
 
 * ②将美国各个县的行业就业份额作为权重，计算每个县的平均NTRGap
 
@@ -67,7 +67,7 @@ $$
 * 拥有学士学位、研究生学位的人口占比
 * 非白人人口占比；65所以上；退伍军人人口
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table1.png" alt="image-20220911223033879" style="zoom:100%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table1.png)
 
 ### （四）进口竞争控制变量
 
@@ -89,7 +89,7 @@ $$
 DemShare_{ct}=\theta PostPNTR_{t} × NTRGap_{c}+ PostPNTR_{t}+X_{c}^{`}\gamma+Z_{ct}^{`}\beta+\delta_{c}+\delta_{t}+\epsilon_{ct}
 $$
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table2.png" alt="image-20220911223033879" style="zoom:100%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table2.png)
 
 ### （二）PNTR暴露程度与众议院选举
 
@@ -117,14 +117,14 @@ $$
 * 上述回归基于县级数据，如果拆解为国会区级的数据，县商业数据无法被拆解到各个区上。
 * 但国会选举实在区级进行的，选民偏好的变化可能导致代表政策选择的变化，因此还是要构建区级的数据进行实证检验
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table3.png" alt="image-20220911223033879" style="zoom:80%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table3.png)
 
 * 基于区级数据的回归结果表明：PNTR的Exposure促进了民主党的获票份额
 * 基于县级数据的回归和基于区级数据的回归结果高度相似，结果并不是县级汇总数据所驱动的
 
 ## 五、稳健性检验
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table4.png" alt="image-20220911223033879" style="zoom:80%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table4.png)
 
 ### （一）不连续的exposure
 
@@ -154,7 +154,7 @@ $$
 
 * 排除县级固定效应，DiD项系数依然稳健。
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\tableA3.png" alt="image-20220911223033879" style="zoom:80%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/tableA3.png)
 
 ## 六、拓展到2016年
 
@@ -166,7 +166,7 @@ $$
 
 * θ是1994-2016的时间虚拟变量，其与NTRGap的交互项捕捉了”各年民主党获票与NTRGap的关系“（时间趋势）
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\fig4.jpg" alt="image-20220911223033879" style="zoom:40%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/fig4.jpg)
 
 * 上图画出了每一年的系数和90%置信区间
 * 系数直接展示了经济意义——NTRGap从25%分位数移动到75%分位数，对民主党选票的影响（经过了处理，系数和置信区间上下限分别乘以NTR差距的四分位数范围）
@@ -174,7 +174,7 @@ $$
 * 第二个阶段：2000-2008，系数估计值明显上升；
 * 第三个阶段：2008年之后，exposure对民主党选票的影响效应减弱
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table5.png" alt="image-20220911223033879" style="zoom:90%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table5.png)
 
 * PNTR的exposure会影响Tea Party：Tea Party的好感度以及Tea Party的积极分子数量
 
@@ -192,7 +192,7 @@ $$
 * 排除了不直接设计贸易限制的法案（broad appropriations）
 * 根据bill是否设置或者消除壁垒，将法案分为支持贸易和反对贸易，针对每个法案给予排名（1明显的支持；2略微支持；3略微反对；4明显反对）
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\tableA4.png" alt="image-20220911223033879" style="zoom:90%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/tableA4.png)
 
 ### （二）识别策略
 
@@ -212,7 +212,8 @@ $$
 $$
 Margin_{dh}=VoteShare_{dh}^{Democrat}-VoteShare_{dh}^{Republican}
 $$
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\figA3.png" alt="image-20220911223033879" style="zoom:90%" />
+
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/figA3.png)
 
 ### （三）结果
 
@@ -222,18 +223,18 @@ $$
 * 第二列表明：在2002-2010年间，民主党在立法投票中，体现出比共和党更反对贸易的倾向
 * 第三列表明：在2012-2014年间，这种倾向消失了（但这一时期的相关法案比较少，双方可能都有反对贸易的倾向）
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table6.png" alt="image-20220911223033879" style="zoom:90%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table6.png)
 
 * 为什么民主党在2000年代相较于共和党会变得“反对贸易”：①总统所在政党影响贸易法案的投票；②期初民主党作为代表的选区更容易受到PNTR shock的影响，因此他们改变了对贸易法案的看法。
 * 在民主党总统比尔克林顿改任共和党总统乔治W布什之后，贸易相关法案的投票急剧下降(63%-40%)；共和党支持贸易的投票从72%上升至80%
 * 共和党没有在2000年初采取贸易保护主义立场的原因：共和党代表要支持共和党总统布什政府的亲贸易立场；在民主党的大本营中，PNTR shock给民主党的收益更大，大本营选取会以较大的优势获胜，这些选区的收益不会引起共和党人的关注，因为这不会导致共和党代表的选区数量发生变化。
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\tableA6.png" alt="image-20220911223033879" style="zoom:70%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/tableA6.png)
 
 * 民主党代表和共和党代表对贸易相关法案的投票(Y)演变是否受PNTR exposure高或低的地区(X)驱动
 * 将地区划分为“高NTRGap”地区和“低NTRGap”地区
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\table7.png" alt="image-20220911223033879" style="zoom:90%" />
+![image](https://github.com/mengke25/LR_Did_trade_liberalization_with_China_influence_US_elections/blob/main/figs/table7.png)
 
 ## 八、结论
 
