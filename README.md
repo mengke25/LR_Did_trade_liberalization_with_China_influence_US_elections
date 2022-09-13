@@ -1,4 +1,4 @@
-# LR_Did_trade_liberalization_with_China_influence_US_elections# Did trade liberalization with China influence US elections?
+# Did trade liberalization with China influence US elections?
 
 ## 一、概要
 
@@ -14,7 +14,7 @@
 * 中国逐渐成为美国最大的进口来源国——1990: 3%; 2007: 17%; 2016: 21%
 * 2000年美国给与中国PNTR之后，中国进口激增。
 
-​	<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\fig1.jpg" alt="image-20220911223033879" style="zoom:30%;" />
+![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fig1.jpg)
 
 * 来自中国的进口增速迅猛，美国制造业就业人数大幅下降，
 * 美国各级政府立法者会对“国际贸易”表态
@@ -22,7 +22,7 @@
 * Tea Party的兴起导致，国会中越来越多的共和党加入民主党的行列，反对贸易协定
 * 2016年共和党不仅反对新的贸易协定，还呼吁推翻现有的协定
 
-<img src="D:\Typora\figs\Did_trade_liberalization_with_China_influence_US_elections\fig2.jpg" alt="image-20220911223033879" style="zoom:30%;float:left" />
+![image](https://github.com/mengke25/LR_Minimun_wage_and_individual_worker_productivity/blob/main/figs/fig2.jpg)
 
 ## 三、数据
 
